@@ -105,6 +105,7 @@ function generateMarkdown(data) {
 `;
 };
 
+// Export function that generates function
 module.exports = {
   generateMarkdown
 };

@@ -22,6 +22,7 @@ function writeToFile(fileName, data) {
     );
 }
 
+// Command line prompts using node
 inquirer
 .prompt([
     {
