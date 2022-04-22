@@ -102,6 +102,9 @@ function generateMarkdown(data) {
   ## <a id="questions"></a> Questions 
   For more information about this project, please go to my Github page: https://github.com/${data.github}.\n
   If you have additional questions, you can reach me at ${data.email}.
+
+  ## Video Tutorial
+  https://youtu.be/xxp3HtZrchg
 `;
 };
 
