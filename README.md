@@ -1,5 +1,5 @@
-
-  # readme
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+  # a
   ## Table of Contents
   1. [Description](#description)
   2. [Installation](#installation)
@@ -10,22 +10,22 @@
   7. [Questions](#questions)
 
   ## <a id="description"></a> Description
-  This application generates a readme from your command line.
+  b
 
   ## <a id="installation"></a> Installation 
-  Install using npm
+  d
 
   ## <a id="usage"></a> Usage 
-  Use when you need to generate a readme from your command line.
+  q
 
   ## <a id="license"></a> License 
-  This application is unlicensed.
+  This application is covered under: [BSD 2-Clause "Simplified" License](https://opensource.org/licenses/BSD-2-Clause)
 
   ## <a id="contributing"></a> Contributing 
-  Contact me in github
+  y
 
   ## <a id="tests"></a> Tests 
-  Run on your command line
+  t
 
   ## <a id="questions"></a> Questions 
   For more information about this project, please go to my Github page: https://github.com/jooreea.
