@@ -1,5 +1,5 @@
-
-  # readme
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+  # a
   ## Table of Contents
   1. [Description](#description)
   2. [Installation](#installation)
@@ -10,24 +10,25 @@
   7. [Questions](#questions)
 
   ## <a id="description"></a> Description
-  This application generates a readme from your command line.
+  s
 
   ## <a id="installation"></a> Installation 
-  Install using npm
+  d
 
   ## <a id="usage"></a> Usage 
-  Use when you need to generate a readme from your command line.
+  f
 
   ## <a id="license"></a> License 
-  This application is unlicensed.
+  This application is covered under:
+  [GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
   ## <a id="contributing"></a> Contributing 
-  Contact me in github
+  g
 
   ## <a id="tests"></a> Tests 
-  Run on your command line
+  h
 
   ## <a id="questions"></a> Questions 
   For more information about this project, please go to my Github page: https://github.com/jooreea.
 
-  If you have additional questions, you can reach me at jooreea@gmail.com.
+  If you have additional questions, you can reach me at jooreea@uw.edu.
